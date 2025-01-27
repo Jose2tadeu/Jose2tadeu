@@ -6,7 +6,7 @@
 - 📫 Contato - @jtb_digital
 - 🗝️ Confidence is the key to success
 
-## Minhas Tecnologias
+## Skills
 <p allign="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80px">
