@@ -67,6 +67,9 @@
 </div>
 
 ###
+
+  <center><img src="https://deathbattle.fandom.com/wiki/Static?file=Static_Electricity_Manipulation.gif"/></center>
+</div>
 <!---
 Jose2tadeu/Jose2tadeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
