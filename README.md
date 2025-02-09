@@ -68,9 +68,8 @@
 
 ###
 
-## Imegem
 
-  <center><img src="https://comicvine.gamespot.com/images/1300-5243954"/></center>
+  <center><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/></center>
 </div>
 <!---
 Jose2tadeu/Jose2tadeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
