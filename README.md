@@ -69,7 +69,7 @@
 ###
                                            
 
-  <center><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/></center>
+  <center><img src="https://static.wikia.nocookie.net/deathbattle/images/9/96/Static_Electricity_Manipulation.gif/revision/latest?cb=20240406170454"/></center>
 </div>
 <!---
 Jose2tadeu/Jose2tadeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
